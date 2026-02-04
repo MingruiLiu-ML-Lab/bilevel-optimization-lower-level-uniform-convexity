@@ -29,8 +29,7 @@ To run data hyper-cleaning on SNLI experiments, you should
 ### Citation
 If you find our repository helpful, please cite our paper:
 ```
-@inproceedings{
-wu2026bilevel,
+@inproceedings{wu2026bilevel,
 title={Bilevel Optimization with Lower-Level Uniform Convexity: Theory and Algorithm},
 author={Wu, Yuman and Gong, Xiaochuan and Hao, Jie and Liu, Mingrui},
 booktitle={The Fourteenth International Conference on Learning Representations},
