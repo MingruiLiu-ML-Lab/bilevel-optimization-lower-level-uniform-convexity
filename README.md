@@ -1,3 +1,5 @@
+## Bilevel Optimization with Lower-Level Uniform Convexity: Theory and Algorithm
+
 This is the code for ICLR 2026 paper of "[Bilevel Optimization with Lower-Level Uniform Convexity: Theory and Algorithm](https://openreview.net/pdf?id=dJgb3ngAvT)".
 
 To run data hyper-cleaning on SNLI experiments, you should 
